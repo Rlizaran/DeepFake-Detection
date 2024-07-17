@@ -10,8 +10,11 @@ This project proposal is part of a special topics course focusing on researching
 * Video Analysis: Watch relevant videos to understand the technology and detection techniques.
 * Peer Education: Prepare and deliver a presentation summarizing the research.
 ## Tools and Resources
-Resources: Academic papers, online articles, and educational videos
-Presentation Tools: PowerPoint, Google Slides
+* Resources: Academic papers, online articles, and educational videos
+* Presentation Tools: Google Slides
 ## Expected Outcomes
 * A comprehensive understanding of DeepFake detection methods.
 * An educational presentation for peers on the findings.
+
+### Link to Google Slides
+* DeepFake Detection Algorithms: [link](https://docs.google.com/presentation/d/1B5PvGUmA3MzhL7yysOnBA710GyWBrO9Y1KtC3i4XKVY/edit#slide=id.g2728981c12f_0_894)
